@@ -1,1 +1,1 @@
-# day1-selenium
+# exercise-selenium
